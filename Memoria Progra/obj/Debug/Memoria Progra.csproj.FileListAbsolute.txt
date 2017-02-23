@@ -1,0 +1,27 @@
+c:\users\jeancarlo\documents\visual studio 2013\Projects\Memoria Progra\Memoria Progra\bin\Debug\Memoria Progra.exe.config
+c:\users\jeancarlo\documents\visual studio 2013\Projects\Memoria Progra\Memoria Progra\bin\Debug\Memoria Progra.exe
+c:\users\jeancarlo\documents\visual studio 2013\Projects\Memoria Progra\Memoria Progra\bin\Debug\Memoria Progra.pdb
+c:\users\jeancarlo\documents\visual studio 2013\Projects\Memoria Progra\Memoria Progra\obj\Debug\Memoria Progra.csprojResolveAssemblyReference.cache
+c:\users\jeancarlo\documents\visual studio 2013\Projects\Memoria Progra\Memoria Progra\obj\Debug\Memoria_Progra.Form1.resources
+c:\users\jeancarlo\documents\visual studio 2013\Projects\Memoria Progra\Memoria Progra\obj\Debug\Memoria_Progra.Properties.Resources.resources
+c:\users\jeancarlo\documents\visual studio 2013\Projects\Memoria Progra\Memoria Progra\obj\Debug\Memoria Progra.csproj.GenerateResource.Cache
+c:\users\jeancarlo\documents\visual studio 2013\Projects\Memoria Progra\Memoria Progra\obj\Debug\Memoria Progra.exe
+c:\users\jeancarlo\documents\visual studio 2013\Projects\Memoria Progra\Memoria Progra\obj\Debug\Memoria Progra.pdb
+C:\Users\JeanCarlo\Documents\ESPECIALIDAD XD\Visual Studio 2013\Projects\Memoria Progra\Memoria Progra\bin\Debug\Memoria Progra.exe.config
+C:\Users\JeanCarlo\Documents\ESPECIALIDAD XD\Visual Studio 2013\Projects\Memoria Progra\Memoria Progra\bin\Debug\Memoria Progra.exe
+C:\Users\JeanCarlo\Documents\ESPECIALIDAD XD\Visual Studio 2013\Projects\Memoria Progra\Memoria Progra\bin\Debug\Memoria Progra.pdb
+C:\Users\JeanCarlo\Documents\ESPECIALIDAD XD\Visual Studio 2013\Projects\Memoria Progra\Memoria Progra\obj\Debug\Memoria_Progra.Form1.resources
+C:\Users\JeanCarlo\Documents\ESPECIALIDAD XD\Visual Studio 2013\Projects\Memoria Progra\Memoria Progra\obj\Debug\Memoria_Progra.Properties.Resources.resources
+C:\Users\JeanCarlo\Documents\ESPECIALIDAD XD\Visual Studio 2013\Projects\Memoria Progra\Memoria Progra\obj\Debug\Memoria Progra.csproj.GenerateResource.Cache
+C:\Users\JeanCarlo\Documents\ESPECIALIDAD XD\Visual Studio 2013\Projects\Memoria Progra\Memoria Progra\obj\Debug\Memoria Progra.exe
+C:\Users\JeanCarlo\Documents\ESPECIALIDAD XD\Visual Studio 2013\Projects\Memoria Progra\Memoria Progra\obj\Debug\Memoria Progra.pdb
+C:\Users\JeanCarlo\Documents\ESPECIALIDAD XD\Visual Studio 2013\Projects\Memoria Progra\Memoria Progra\obj\Debug\Memoria Progra.csprojResolveAssemblyReference.cache
+C:\Users\JeanCarlo\Dropbox\Colegio Agropecuario\Especialiad de Info\10°\Progra\Visual Studio 2013\Projects\Memoria Progra\Memoria Progra\bin\Debug\Memoria Progra.exe.config
+C:\Users\JeanCarlo\Dropbox\Colegio Agropecuario\Especialiad de Info\10°\Progra\Visual Studio 2013\Projects\Memoria Progra\Memoria Progra\bin\Debug\Memoria Progra.exe
+C:\Users\JeanCarlo\Dropbox\Colegio Agropecuario\Especialiad de Info\10°\Progra\Visual Studio 2013\Projects\Memoria Progra\Memoria Progra\bin\Debug\Memoria Progra.pdb
+C:\Users\JeanCarlo\Dropbox\Colegio Agropecuario\Especialiad de Info\10°\Progra\Visual Studio 2013\Projects\Memoria Progra\Memoria Progra\obj\Debug\Memoria Progra.csprojResolveAssemblyReference.cache
+C:\Users\JeanCarlo\Dropbox\Colegio Agropecuario\Especialiad de Info\10°\Progra\Visual Studio 2013\Projects\Memoria Progra\Memoria Progra\obj\Debug\Memoria_Progra.Form1.resources
+C:\Users\JeanCarlo\Dropbox\Colegio Agropecuario\Especialiad de Info\10°\Progra\Visual Studio 2013\Projects\Memoria Progra\Memoria Progra\obj\Debug\Memoria_Progra.Properties.Resources.resources
+C:\Users\JeanCarlo\Dropbox\Colegio Agropecuario\Especialiad de Info\10°\Progra\Visual Studio 2013\Projects\Memoria Progra\Memoria Progra\obj\Debug\Memoria Progra.csproj.GenerateResource.Cache
+C:\Users\JeanCarlo\Dropbox\Colegio Agropecuario\Especialiad de Info\10°\Progra\Visual Studio 2013\Projects\Memoria Progra\Memoria Progra\obj\Debug\Memoria Progra.exe
+C:\Users\JeanCarlo\Dropbox\Colegio Agropecuario\Especialiad de Info\10°\Progra\Visual Studio 2013\Projects\Memoria Progra\Memoria Progra\obj\Debug\Memoria Progra.pdb
