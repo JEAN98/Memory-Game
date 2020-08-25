@@ -3,13 +3,12 @@ Project
 
 
 
-I was making this project in 2014 in the high school, is very interesting and good for to learn about
-matrix of a dinamic way, for the fact  that is better to learn playing, with the time 
-I going to make  more changes little by little.
+I completed this project in 2014 during my high school years, it's  interesting and good if you want to learn about
+matrix of a dinamic way. In future days I will make  more changes.
 
-In this game we are going to have two matrix, the first is for to save images the game and 
-the second is for to save numbers(it's logic matrix)
+In this game we are going to have two matrices, the first one is focused on to save images of the game and 
+the second one is to save numbers(it's called like logic matrix)
 
-From view the users is a hard game, because the first image can to display but the next image can't to display, for that reason you need a lot attention in each image.
+From the user perspective, this could be a really hard game, because the first image is going to be displayed until the user selects a new one, based on this you need to pay a lot of attention in each image.
 
 I hope you like it
